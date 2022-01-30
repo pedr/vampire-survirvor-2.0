@@ -1,0 +1,37 @@
+[gd_scene format=2]
+
+[node name="DeathScreen" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 379.0
+margin_top = 256.0
+margin_right = 607.0
+margin_bottom = 346.0
+text = "AKA BOU!
+
+parabeins
+
+VC FEZ:"
+align = 1
+valign = 1
+
+[node name="ScoreLabel" type="Label" parent="."]
+margin_left = 467.326
+margin_top = 349.688
+margin_right = 520.326
+margin_bottom = 368.688
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label2" type="Label" parent="."]
+margin_left = 387.299
+margin_top = 374.688
+margin_right = 643.299
+margin_bottom = 401.688
+text = "fecha e abra de nv pra jogar outra vez kk"
